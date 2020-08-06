@@ -1,7 +1,7 @@
 # preseed_buster
 
 
-this is a preseed filt to autoinstall debian buster on a machine
+this is a preseed file, to autoinstall debian buster on a machine
 
 
 Prepare
