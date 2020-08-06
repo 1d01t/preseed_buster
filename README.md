@@ -31,4 +31,4 @@ run the setup
   - start debian-buster.iso
   - go to "Advanced settings"
   - go to "Automated install"
-  - type in the path where the machine can reach the file
+  - type in the path where the machine can reach the file 
